@@ -48,7 +48,3 @@ You can interact with the chatbot through the command line interface.
 - Responds to user input with generated replies.
 - Can be trained with custom datasets to improve response accuracy.
 - Includes utility functions for data loading and preprocessing.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you would like to contribute to the project.
